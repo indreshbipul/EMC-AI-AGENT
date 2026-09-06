@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "MoveQ Partner",
+    "slug": "moveq-partner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FDF8F3"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.moveq.partner"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundColor": "#16C47F"
+      },
+      "package": "com.moveq.partner"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
